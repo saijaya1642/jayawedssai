@@ -6,7 +6,7 @@
 	<head>
 	<meta charset="utf-8">
 	<meta http-equiv="X-UA-Compatible" content="IE=edge">
-	<title>Wedding Invitation</title>
+	<title>Wedding Invitation </title>
 	<meta name="viewport" content="width=device-width, initial-scale=1">
 	<meta name="description" content="Free HTML5 Template by FREEHTML5.CO" />
 	<meta name="keywords" content="free html5, free template, free bootstrap, html5, css3, mobile first, responsive" />
@@ -107,7 +107,11 @@
 						</li>
 						<li><a href="contact.html">Contact</a></li>
 						<li><a href="Card.pdf" >
+<<<<<<< HEAD
 							<!--<button type="button">Download</button>-->
+=======
+<!-- 							<button type="button">Download</button> -->
+>>>>>>> feef9a4232c72637b16c4c6ab22d3e62b6fec375
 							</a></li>
 					</ul>
 				</div>
