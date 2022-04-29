@@ -6,9 +6,9 @@ name: weddingdeploy
 # events but only for the master branch
 on:
   push:
-    branches: [deploy]
+    branches: [Test]
   pull_request:
-    branches: [deploy]
+    branches: [Test]
 
 # A workflow run is made up of one or more jobs that can run sequentially or in parallel
 jobs:
