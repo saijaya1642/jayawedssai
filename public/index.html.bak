@@ -107,11 +107,9 @@
 						</li>
 						<li><a href="contact.html">Contact</a></li>
 						<li><a href="Card.pdf" >
-<<<<<<< HEAD
-							<!--<button type="button">Download</button>-->
-=======
+
 <!-- 							<button type="button">Download</button> -->
->>>>>>> feef9a4232c72637b16c4c6ab22d3e62b6fec375
+
 							</a></li>
 					</ul>
 				</div>
